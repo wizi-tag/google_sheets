@@ -1,0 +1,5 @@
+google_api_python_client==2.53.0
+httplib2==0.14.0
+oauth2client==4.1.3
+psycopg2==2.9.3
+requests==2.22.0
